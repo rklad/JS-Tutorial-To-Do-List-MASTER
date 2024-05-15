@@ -29,3 +29,5 @@ function addToDo(toDo){
 
     list.insertAdjacentHTML(position, item);
 }
+
+// 35:29 INTO THE VIDEO
